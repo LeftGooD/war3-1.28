@@ -1,0 +1,4 @@
+luacore.dll
+ydbase.dll
+SlkLib.dll
+{plugins}
